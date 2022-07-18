@@ -1,0 +1,15 @@
+.outer_form_div {
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.outer_form_div>div {
+    background:#e9eae8;
+    padding: 5%;
+    border-radius: 7px;
+}
+.logo{
+    background: transparent !important;
+}
